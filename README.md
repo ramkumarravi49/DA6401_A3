@@ -137,7 +137,7 @@ python code/train.py --cell GRU --epochs 10 --hidden_size 256
 
 ## Testing the Model
 
-To test the model stored at `attn_best_model.pth`, run:
+To test the best model mentioned in report stored at `attn_best_model.pth`, run:
 
 ```bash
 python code/test.py
@@ -153,7 +153,7 @@ The full exploratory and post-analysis work (Q4c, Q5c, Q6) has been done in Kagg
 
 * Error analytics
 * Generating `corrected_cases.tsv`
-* Animated attention heatmaps
+* Attention heatmaps
 * Connectivity visualizations
 
 ### 🔗 Kaggle Notebooks
@@ -178,6 +178,10 @@ The full exploratory and post-analysis work (Q4c, Q5c, Q6) has been done in Kagg
 After download, place both items inside the `code/` directory as shown above.
 
 ---
+## 🔗 WandB Report Link
+* [Wandb A3 Rport Link](https://api.wandb.ai/links/cs24m037-iit-madras/yhbccmti)
+* [Wandb A3 Project Link](https://wandb.ai/cs24m037-iit-madras/DA6401_A3/sweeps)
+
 
 ## 👨‍💻 Author
 
