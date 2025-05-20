@@ -13,6 +13,7 @@ This repository contains code and artifacts for the DA6401 Assignment 3 on trans
 * [Testing the Model](#testing-the-model)
 * [Inference & Evaluation](#inference--evaluation)
 * [External Resources](#external-resources)
+* [Wandb Link](#wandb-report-link)
 * [Acknowledgements](#acknowledgements)
 
 ---
